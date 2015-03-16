@@ -17,7 +17,7 @@
 . /lib/lsb/init-functions
 
 # Modify this line to specify the user (default is root)
-user=root
+user=user
 
 # Add your DHCP lease folders here
 # DHCP_FOLDERS_PATH="/var/lib/dhclient/* /var/lib/dhcp3/* /var/lib/dhcp/*"
